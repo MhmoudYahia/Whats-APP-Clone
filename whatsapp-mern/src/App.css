@@ -1,0 +1,14 @@
+.App {
+  display: grid;
+  height: 100vh;
+  place-items: center;
+  background-color: rgb(230, 230, 230);
+}
+
+main {
+  display: flex;
+  width: 90%;
+  height: 90%;
+  border: 1px solid darkgray;
+  box-shadow: 0 0 6px 0px #7e7e7e;
+}

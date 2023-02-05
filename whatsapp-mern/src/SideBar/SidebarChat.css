@@ -1,0 +1,11 @@
+.sidebar-chat{
+    background-color: white;
+    display: flex;
+        padding: 10px;
+}
+
+.sidebar-chat .right{
+    display: flex;
+    flex-direction: column;
+    margin-left: 12px;
+}
