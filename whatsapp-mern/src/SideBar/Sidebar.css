@@ -2,7 +2,7 @@
   flex-basis: 30%;
   background-color: rgb(245, 245, 245);
 }
-.sidebar-header {
+.sidebar-header  {
   display: flex;
   background-color: rgb(237 237 237);
 }
@@ -16,7 +16,7 @@
   justify-content: end;
   align-items: center;
 }
-.sidebar-header .right .icon {
+ .right .icon {
   margin: 10px;
 }
 .sidebar .search-sidebar {
