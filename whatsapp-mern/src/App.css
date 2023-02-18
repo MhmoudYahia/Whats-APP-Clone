@@ -10,5 +10,6 @@ main {
   width: 90%;
   height: 90%;
   border: 1px solid darkgray;
+      max-height: 844px;
   box-shadow: 0 0 6px 0px #7e7e7e;
 }
